@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Statistiques Parcoursup ",
+    "description": "Page web affichant les informations et les statistiques des formations proposées par le site Parcoursup pour l'année scolaire 2023-2024. ",
+    "technoUsed": ["Riotjs", "html", "css"],
+    "link": "https://github.com/AMOUSSA-hub/Parcoursup_Billboard_Statistics_2023",
+    "image": "images/Parcoursup.png"
+  },
+  {
+    "name": "6 qui prend",
+    "description": "Jeu de carte \"6 qui prend\".",
+    "technoUsed": ["Java"],
+    "link": "https://github.com/AMOUSSA-hub/6Takes",
+    "image": "images/6Takes.png"
+  },
+  {
+    "name": "Mastermind App",
+    "description": "Application mobile du jeu \"Mastermind\" sous Android.",
+    "technoUsed": ["Java", "XML", "Android Studio"],
+    "link": "https://github.com/AMOUSSA-hub/Mastermind",
+    "image": "images/Mastermind1.png"
+  },
+  {
+    "name": "Taquin",
+    "description": "Application desktop du jeu de puzzle \" Taquin \" (Linux only). ",
+    "technoUsed": ["C"],
+    "link": "https://github.com/AMOUSSA-hub/Taquin",
+    "image": "images/Taquin.png"
+  },
+  {
+    "name": "Démineur",
+    "description": "Jeu du démineur. ",
+    "technoUsed": ["Java"],
+    "link": "https://github.com/AMOUSSA-hub/Demineur",
+    "image": " images/demineur1.png "
+  }
+]

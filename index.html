@@ -1,35 +1,152 @@
 <!doctype html>
-<html lang="fr">
+<html lang="fr" class="theme-dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mon Portfolio</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
     <script src="https://kit.fontawesome.com/baa11f8019.js" crossorigin="anonymous"></script>
+    <script src="script/navbar_burger.js" crossorigin="anonymous"></script>
+    <script src="script/fill_project_list.js" crossorigin="anonymous"></script>
+    <script src="script/fill_tools_list.js" crossorigin="anonymous" ></script>
   </head>
 
-  <body>
+  <body id="home">
 
-    <nav class="navbar is-black" role="navigation" aria-label="main navigation">
+    <nav class="navbar is-black is-fixed-top" role="navigation" aria-label="main navigation">
+      
+      
+    
+        
+    
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
       
 
-      <div id="navbarBasicExample" class="navbar-menu title is-3 ">
-        <div class="navbar-start ">
-          
-          <a class="navbar-item ">Projets</a>
-          <a class="navbar-item ">CV</a>
-          <a class="navbar-item ">Stack technique</a>
+      <div id="navbarBasicExample" class="navbar-menu title is-5 ">
+        <div class="navbar-start">
+          <a class="navbar-item px-5"> À propos de moi</a>
+          <a class="navbar-item px-5" href="#projects" ><i class="fa-solid fa-laptop-code"></i> Projets</a>
+          <a class="navbar-item px-5" href="#tools"><i class="fa-solid fa-gear"></i></i> Stack technique</a>
+          <a class="navbar-item px-5" href="ressources/CV 2.1-3.pdf" download="CV_AMOUSSA.pdf"><i class="fa-solid fa-arrow-up-from-bracket"></i> CV</a>
         </div>
     
         <div class="navbar-end">
           <div class="navbar-item">
           
-              <a class="fa-brands fa-linkedin fa-xl" href="https://www.linkedin.com/in/rayan-amoussa/"  style="color: #0055aa;"></a>
-              <a class="fa-brands fa-github fa-lg" href="https://github.com/AMOUSSA-hub"  style="color: white;"></a>
+              <a class="fa-brands fa-linkedin fa-lg" href="https://www.linkedin.com/in/rayan-amoussa/"  style="color: #0055aa;"></a>
+              <a class="fa-brands fa-github " href="https://github.com/AMOUSSA-hub"  style="color: white;"></a>
           </div>
         </div>
       </div>
     </nav>
+
   
+
+
+    <div class="card" style="padding: 20%;">
+      
+      <div class="card-content">
+        <div class="media">
+          <div class="media-left">
+            <figure class="image is-48x48">
+              <img
+                src="https://bulma.io/assets/images/placeholders/96x96.png"
+                alt="Placeholder image"
+              />
+            </figure>
+          </div>
+          <div class="media-content">
+            <p class="title is-4">Rayan AMOUSSA</p>
+          </div>
+        </div>
+    
+        <div class="content">
+         Je m'appelle Rayan, j'ai 21 ans et je suis actuellement école d'ingénieur pour devenir développeur fullstack.
+        </div>
+      </div>
+    </div>
+
+
+   <section class="box"  id="projects" style="padding-bottom: 5%; margin-inline:5%;">
+    <h1 class="title" style="text-align: center;">Projets</h1>
+    <div  class="fixed-grid has-3-cols" style="padding-inline: 10%">
+      <div class="grid" id="repoGrid">
+        <template id="project-card">
+          <a class="cell "   >
+            <div class="card " >
+              <div class="card-image">
+                  <figure class="image is-4by3">
+                    <img
+                      src="https://bulma.io/assets/images/placeholders/1280x960.png"
+                      alt="Placeholder image"
+                      class="project-image"
+                    />
+                  </figure>
+              </div>
+              <div class="card-content" id>
+                <div class="media">
+                  <div class="media-left">
+                    
+                  </div>
+                  <div class="media-content" id="title-div">
+                    <p class="title is-4 project-name">Nom projet</p>
+                    
+                  </div>
+                </div>
+            
+                <div class="content project-description">
+                  Description projet.
+                  <br />
+                  
+                </div>
+              </div>
+              </div>
+            </a>
+          </template>
+      </div>
+    </div>
+  </section>
+
+  <section class="box" style="margin-inline: 5%;" id="tools">
+    <h1 class="title" style="text-align: center;">Stack Technique</h1>
+    <div class="tabs is-centered">
+      <ul>
+        <li class="is-active"><a  onclick='renderTools("Langage de programmation")'>Langages</a></li>
+        <li><a onclick='renderTools("Framework web")'>Frameworks Web</a></li>
+        <li><a onclick='renderTools("Outil divers")'>Divers</a></li>
+      </ul>
+    </div>
+      <div class="grid" id="tools-container">
+          <template id="tools-card">
+            <div class="cell">
+   
+                   
+                      <img
+                        src="https://bulma.io/assets/images/placeholders/1280x960.png"
+                        alt="Placeholder image"
+                        class="tool-image"
+                        width="60px"
+                        
+                      />         
+                    <strong><p class=" has-text-light tool-name"  >Nom outil</p></strong>            
+                 
+              </div>
+          </template>
+        </div>
+   
+
+  </section>
+
+    </div>
+
+    <a href="#home" class="back-to-top" aria-label="Revenir en haut de la page" style="display: block;"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
+    
   </body>
+
+
 </html>

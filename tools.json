@@ -1,0 +1,107 @@
+[
+  {
+    "nom": "Java",
+    "type": "Langage de programmation",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  },
+  {
+    "nom": "C",
+    "type": "Langage de programmation",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+  },
+  {
+    "nom": "SQL,PL/SQL",
+    "type": "Langage de programmation",
+    "image": "https://static.vecteezy.com/system/resources/previews/029/345/981/non_2x/database-icon-data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png"
+  },
+  {
+    "nom": "Neo4J",
+    "type": "Langage de programmation",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg"
+  },
+  {
+    "nom": "HTML",
+    "type": "Langage de programmation",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  },
+  {
+    "nom": "CSS",
+    "type": "Langage de programmation",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  },
+  {
+    "nom": "JS",
+    "type": "Langage de programmation",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  },
+  {
+    "nom": "Python",
+    "type": "Langage de programmation",
+    "image": "https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"
+  },
+  {
+    "nom": "PHP",
+    "type": "Langage de programmation",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+  },
+  {
+    "nom": "React / React Native",
+    "type": "Framework web",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  },
+  {
+    "nom": "RiotJS",
+    "type": "Framework web",
+    "image": "https://riot.js.org/img/logo/square.svg"
+  },
+  {
+    "nom": "Angular",
+    "type": "Framework web",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+  },
+  {
+    "nom": "Linux (bash)",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+  },
+  {
+    "nom": "Figma",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+  },
+  {
+    "nom": "PhpMyAdmin",
+    "type": "Outil divers",
+    "image": "images/Phpmyadmin.png"
+  },
+  {
+    "nom": "Git",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+  },
+  {
+    "nom": "Firebase",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+  },
+  {
+    "nom": "Apache Maven",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+  },
+  {
+    "nom": "Jenkins",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+  },
+  {
+    "nom": "Docker",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+  },
+  {
+    "nom": "Android Studio",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+  }
+]
