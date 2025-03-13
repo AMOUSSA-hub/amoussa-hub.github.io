@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.querySelectorAll(".tabs ul li a").forEach(tab => {
       tab.addEventListener("click", function (event) {
-          event.preventDefault(); // Empêche le rechargement de la page
+          event.preventDefault();
           document.querySelector(".tabs ul li.is-active").classList.remove("is-active");
           this.parentElement.classList.add("is-active");
       });
