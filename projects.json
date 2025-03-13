@@ -22,7 +22,7 @@
   },
   {
     "name": "Taquin",
-    "description": "Application desktop du jeu de puzzle \" Taquin \" (Linux only). ",
+    "description": "Application desktop du jeu de puzzle \"Taquin\" (Linux only). ",
     "technoUsed": ["C"],
     "link": "https://github.com/AMOUSSA-hub/Taquin",
     "image": "images/Taquin.png"
