@@ -6,10 +6,6 @@
     align-items: center;
     background-color: #222;
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-    max-width: 900px;
-    margin: auto;
   }
   #me img {
     width: 120px;
@@ -23,15 +19,10 @@
     flex: 1;
   }
 
-
-
-
   /* Grilles responsives */
   .grid {
-    display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
-    padding: 20px;
   }
 
 
@@ -43,9 +34,7 @@
       text-align: center;
     }
 
-    .card img {
-      margin: 0 0 15px 0;
-    }
+   
     embed {
         width: 100%;
         height: 500px;
