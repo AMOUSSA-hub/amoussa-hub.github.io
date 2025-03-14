@@ -8,6 +8,10 @@ function sendMail() {
         return;
     }
 
+    
     let mailtoLink = `mailto:${recipient}?subject= Demande via le Portfolio de ${name}&body=${encodeURIComponent(message)}`;
     window.location.href = mailtoLink;
+    document.getElementById('nameSender').value = "";
+    document.getElementById('message').value = "";
+    
 }
