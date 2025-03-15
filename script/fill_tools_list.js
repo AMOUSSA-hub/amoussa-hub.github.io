@@ -37,7 +37,11 @@ document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll(".tabs ul li a").forEach(tab => {
       tab.addEventListener("click", function (event) {
           event.preventDefault();
+          
+          document.querySelector(".tabs ul li.is-active a").classList.add("has-text-white");
           document.querySelector(".tabs ul li.is-active").classList.remove("is-active");
+          
+          this.parentElement.querySelector("a").classList.remove("has-text-white");
           this.parentElement.classList.add("is-active");
       });
   });
