@@ -115,7 +115,7 @@
       <div class="grid" id="repoGrid">
         <template id="project-card">
           <a class="cell "   >
-            <div class="card " >
+            <div class="card hoverable"  >
               <div class="card-image">
                   <figure class="image is-4by3">
                     <img
@@ -156,7 +156,7 @@
   <section class="box" style="margin-inline:5%;text-align: center;" id="CV">
     <h1 class="title" style="text-align: center;">Mon CV</h1>
     <iframe id="preview_doc" src="https://drive.google.com/file/d/15-7hYV875DxNA8zjZNNn6A3pyy3ZInkE/preview"  ></iframe><br>
-    <a class="button  is-link" href="ressources/CV.pdf" download="CV_AMOUSSA.pdf"><i class="fa-solid fa-arrow-up-from-bracket"></i> Télécharger</a>
+    <a class="button  is-link" href="ressources/CV.pdf" download="CV_AMOUSSA_Rayan.pdf"><i class="fa-solid fa-arrow-up-from-bracket"></i> Télécharger</a>
   </section>
 
   
@@ -164,7 +164,7 @@
   <section class="box" style="margin-inline:5%;text-align: center;" id="contact">
       <h1 class="title" style="text-align: center;">Contactez-moi</h1>
     <input style=" margin-bottom: 10px; padding: 8px;" type="text" id="nameSender" placeholder="Votre nom" required>
-      <textarea style=" margin-bottom: 10px; padding: 8px;" id="message" placeholder="Bonjour, Je vous contacte pour..."  rows="6" cols="10"></textarea><br>
+      <textarea style=" margin-bottom: 10px; padding: 8px; resize: none;" id="message" placeholder="Bonjour, Je vous contacte pour..."  rows="6" cols="10"></textarea><br>
       <button class="button"  onclick="sendMail()">Envoyer</button>
 
   </section>
