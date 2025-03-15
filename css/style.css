@@ -123,6 +123,10 @@ a:hover {
   gap: 20px;
 }
 
+section input, section textarea {
+  width: 50%;
+}
+
 /* =============================== */
 /*          Responsive             */
 /* =============================== */
@@ -147,4 +151,10 @@ a:hover {
       width: 100%;
       height: 500px;
   }
+
+  section input, section textarea {
+    width: 100%;
+  }
+
+ 
 }
