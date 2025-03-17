@@ -8,7 +8,7 @@
   },
   {
     "name": "6 qui prend",
-    "description": "Jeu de carte \"6 qui prend\".",
+    "description": "Jeu de cartes \"6 qui prend\".",
     "technoUsed": ["Java"],
     "link": "https://github.com/AMOUSSA-hub/6Takes",
     "image": "images/6Takes.png"
