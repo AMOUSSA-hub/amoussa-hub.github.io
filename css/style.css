@@ -1,4 +1,7 @@
-
+html { 
+  scroll-behavior: smooth !important;
+ }
+ 
 :root {
   --primary-color: #0d1b2a; 
   --secondary-color: #1b263b; 
@@ -7,6 +10,7 @@
   --card-background: #1b263b;
   --highlight-color: #52dfa8; 
 }
+
 
 
 body {
