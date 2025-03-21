@@ -72,7 +72,7 @@
   {
     "nom": "PhpMyAdmin",
     "type": "Outil divers",
-    "image": "images/Phpmyadmin.png"
+    "image": "./assets/images/Phpmyadmin.png"
   },
   {
     "nom": "Git",
@@ -103,5 +103,30 @@
     "nom": "Android Studio",
     "type": "Outil divers",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+  },
+  {
+    "nom": "Burp Suite",
+    "type": "Cybersécurité",
+    "image": "https://downloads.marketplace.jetbrains.com/files/24320/529981/icon/default.png"
+  },
+  {
+    "nom": "Metasploit",
+    "type": "Cybersécurité",
+    "image": "https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo.png"
+  },
+  {
+    "nom": "Nmap",
+    "type": "Cybersécurité",
+    "image": "https://cdn.brandfetch.io/nmap.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed"
+  },
+  {
+    "nom": "Wireshark",
+    "type": "Cybersécurité",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"
+  },
+  {
+    "nom": "Wappalyzer",
+    "type": "Cybersécurité",
+    "image": "https://www.wappalyzer.com/images/logo/mark-dark.png"
   }
 ]

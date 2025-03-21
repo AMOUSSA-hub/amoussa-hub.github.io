@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
       console.log(filterType);
 
       try {
-          const response = await fetch("tools.json");
+          const response = await fetch("./assets/data/tools.json");
           const toolsData = await response.json();
           const filteredTools = toolsData.filter(tool => tool.type === filterType);
 

@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("projects.json")
+    fetch("./assets/data/projects.json")
         .then(response => response.json())
         .then(data => {
             let projectList = document.getElementById("repoGrid");
