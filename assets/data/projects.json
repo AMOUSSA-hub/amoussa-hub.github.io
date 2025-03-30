@@ -2,7 +2,7 @@
   {
     "name": "Statistiques Parcoursup ",
     "description": "Page web affichant les informations et les statistiques des formations proposées par la plateforme Parcoursup pour l'année scolaire 2023-2024. ",
-    "technoUsed": ["Riotjs", "html", "css"],
+    "technoUsed": ["Riotjs", "HTML", "CSS"],
     "link": "https://amoussa-hub.github.io/Parcoursup_Billboard_Statistics_2023/html/",
     "image": "./assets/images/Parcoursup.png"
   },
