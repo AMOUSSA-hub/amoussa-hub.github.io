@@ -38,7 +38,7 @@
     "name": "Pokedex App",
     "description": " Application web permettant de rechercher des Pokémons.",
     "technoUsed": ["Angular","HTML","CSS","TypeScript"],
-    "link": "https://github.com/AMOUSSA-hub/Pokedex-app",
+    "link": "https://amoussa-hub.github.io/Pokedex-app/pokemons",
     "image": "./assets/images/pokedex.png "
   },
   {
