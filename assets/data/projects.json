@@ -12,6 +12,26 @@
     "technoUsed": ["Java"],
     "link": "https://github.com/AMOUSSA-hub/6Takes",
     "image": "./assets/images/6Takes.png"
+  },{
+    "name": "Kingo App",
+    "description": "Application mobile de tourisme pour la ville de Kinshasa (RDC).",
+    "technoUsed": ["React Native","Firebase","Javascript"],
+    "link": "https://github.com/AMOUSSA-hub/Kingo-App",
+    "image": "./assets/images/Kingo.png "
+  },
+  {
+    "name": "API Kingo",
+    "description": "API de l'application Kingo.",
+    "technoUsed": ["PHP"],
+    "link": "https://github.com/AMOUSSA-hub/API_Kingo",
+    "image": "https://cdn-icons-png.flaticon.com/512/3957/3957993.png "
+  },
+  {
+    "name": "Pokedex App",
+    "description": " Application web permettant de rechercher des Pokémons.",
+    "technoUsed": ["Angular","HTML","CSS","TypeScript"],
+    "link": "https://amoussa-hub.github.io/Pokedex-app/pokemons",
+    "image": "./assets/images/pokedex.png "
   },
   {
     "name": "Mastermind App",
@@ -27,25 +47,19 @@
     "link": "https://github.com/AMOUSSA-hub/Taquin",
     "image": "./assets/images/Taquin.png"
   },
-  {
-    "name": "Démineur",
-    "description": "Jeu du démineur. ",
-    "technoUsed": ["Java"],
-    "link": "https://github.com/AMOUSSA-hub/Demineur",
-    "image": "./assets/images/demineur1.png "
-  },
-  {
-    "name": "Pokedex App",
-    "description": " Application web permettant de rechercher des Pokémons.",
-    "technoUsed": ["Angular","HTML","CSS","TypeScript"],
-    "link": "https://amoussa-hub.github.io/Pokedex-app/pokemons",
-    "image": "./assets/images/pokedex.png "
-  },
+  
   {
     "name": "Jeu de Nim",
     "description": " Site d'initiation à la stratégie gagnante du jeu de Nim.",
     "technoUsed": ["HTML","CSS"],
     "link": "https://amoussa-hub.github.io/Jeu_De_Nim/",
     "image": "./assets/images/Nim.png "
+  },
+  {
+    "name": "Démineur",
+    "description": "Jeu du démineur. ",
+    "technoUsed": ["Java"],
+    "link": "https://github.com/AMOUSSA-hub/Demineur",
+    "image": "./assets/images/demineur1.png "
   }
 ]
