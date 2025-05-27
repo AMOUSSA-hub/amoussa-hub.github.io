@@ -99,6 +99,11 @@
     "type": "Outil divers",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
   },
+    {
+    "nom": "QGIS",
+    "type": "Outil divers",
+    "image": "./assets/images/QGIS.png"
+  },
   {
     "nom": "Android Studio",
     "type": "Outil divers",
