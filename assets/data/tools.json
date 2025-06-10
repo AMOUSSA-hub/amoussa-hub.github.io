@@ -45,6 +45,11 @@
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
   },
   {
+    "nom": "Powershell",
+    "type": "Langage de programmation",
+    "image": "https://icons.veryicon.com/png/o/business/vscode-program-item-icon/powershell.png"
+  },
+  {
     "nom": "React / React Native",
     "type": "Framework web",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
