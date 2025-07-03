@@ -77,6 +77,12 @@
   
   },
   {
+    "nom": "Bulma CSS",
+    "type": "Framework web",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"
+  
+  },
+  {
     "nom": "Linux (bash)",
     "type": "Outil divers",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
