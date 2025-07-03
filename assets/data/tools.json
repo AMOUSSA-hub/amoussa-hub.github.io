@@ -64,10 +64,32 @@
     "type": "Framework web",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
   },
+   {
+    "nom": "FastAPI",
+    "type": "Framework web",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+  
+  },
+  {
+    "nom": "Tailwind CSS",
+    "type": "Framework web",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+  
+  },
   {
     "nom": "Linux (bash)",
     "type": "Outil divers",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+  },
+  {
+    "nom": "Git",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+  },
+  {
+    "nom": "Docker",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
   },
   {
     "nom": "Figma",
@@ -79,10 +101,10 @@
     "type": "Outil divers",
     "image": "./assets/images/Phpmyadmin.png"
   },
-  {
-    "nom": "Git",
+    {
+    "nom": "OpenSearch",
     "type": "Outil divers",
-    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+    "image": "./assets/images/OpenSearch.png"
   },
   {
     "nom": "Firebase",
@@ -98,11 +120,6 @@
     "nom": "Jenkins",
     "type": "Outil divers",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
-  },
-  {
-    "nom": "Docker",
-    "type": "Outil divers",
-    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
   },
     {
     "nom": "QGIS",

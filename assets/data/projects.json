@@ -1,5 +1,12 @@
 [
   {
+    "name": "LogEngine ",
+    "description": "Application web de gestion de log. ",
+    "technoUsed": ["React", "FastAPI", "Docker","OpenSearch","Tailwind CSS"],
+    "link": "https://github.com/AMOUSSA-hub/LogEngine",
+    "image": "./assets/images/LogEngine.png"
+  },
+  {
     "name": "Statistiques Parcoursup ",
     "description": "Page web affichant les informations et les statistiques des formations proposées par la plateforme Parcoursup pour l'année scolaire 2023-2024. ",
     "technoUsed": ["Riotjs", "HTML", "CSS"],
@@ -24,7 +31,7 @@
     "description": "API de l'application Kingo.",
     "technoUsed": ["PHP"],
     "link": "https://github.com/AMOUSSA-hub/API_Kingo",
-    "image": "https://cdn-icons-png.flaticon.com/512/3957/3957993.png "
+    "image": "./assets/images/API.png "
   },
   {
     "name": "Pokedex App",
