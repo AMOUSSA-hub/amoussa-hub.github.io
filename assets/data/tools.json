@@ -97,6 +97,11 @@
     "type": "Outil divers",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
   },
+   {
+    "nom": "Nodejs",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+  },
   {
     "nom": "Figma",
     "type": "Outil divers",
