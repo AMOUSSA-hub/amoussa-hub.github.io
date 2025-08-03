@@ -7,7 +7,7 @@
   {
     "nom": "C",
     "type": "Langage de programmation",
-    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    "image": "./assets/images/C_Programming_Language.svg.png"
   },
   {
     "nom": "SQL,PL/SQL",
