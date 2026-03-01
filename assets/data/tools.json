@@ -82,6 +82,12 @@
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"
   
   },
+   {
+    "nom": "Spring Boot",
+    "type": "Framework web",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+  
+  },
   {
     "nom": "Linux (bash)",
     "type": "Outil divers",
