@@ -142,6 +142,16 @@
     "type": "Outil divers",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
   },
+   {
+    "nom": "MongoDB",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"
+  },
+   {
+    "nom": "Supabase",
+    "type": "Outil divers",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+  },
   {
     "nom": "Burp Suite",
     "type": "Cybersécurité",

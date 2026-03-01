@@ -1,10 +1,17 @@
 [
-  {
+ {
     "name": "LogEngine ",
     "description": "Application web de gestion de log. ",
     "technoUsed": ["React", "FastAPI", "Docker","OpenSearch","Tailwind CSS"],
     "link": "https://github.com/AMOUSSA-hub/LogEngine",
     "image": "./assets/images/LogEngine.png"
+  },
+   {
+    "name": "Food Data DashBoard ",
+    "description": "Application conçue pour collecter, enrichir (pipeline) et visualiser les données nutritionnelles issues de l'API OpenFoodFacts.",
+    "technoUsed": ["React/Vite", "FastAPI", "Python","MongoDB"],
+    "link": "https://github.com/AMOUSSA-hub/Collector_diet_App",
+    "image": "./assets/images/food.jpg"
   },
   {
     "name": "Statistiques Parcoursup ",
