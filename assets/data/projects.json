@@ -21,6 +21,13 @@
     "image": "./assets/images/Parcoursup.png"
   },
   {
+    "name": "Ticketing App",
+    "description": "Interface JavaFX de gestion de tickets. ",
+    "technoUsed": ["JavaFX", "SQLite", "Maven"],
+    "link": "https://github.com/AMOUSSA-hub/Ticketing_App_JavaFX",
+    "image": "./assets/images/Ticketing_App.png"
+  },
+  {
     "name": "6 qui prend",
     "description": "Jeu de cartes \"6 qui prend\".",
     "technoUsed": ["Java"],
@@ -76,4 +83,6 @@
     "link": "https://github.com/AMOUSSA-hub/Demineur",
     "image": "./assets/images/demineur1.png "
   }
+
+  
 ]
